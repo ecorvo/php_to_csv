@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d192fce-d168-445f-b8dc-8e1f45c31d77" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php_to_csv.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download_csv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="php_to_csv.iws" />
@@ -44,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="74" selection-start="106" selection-end="106" vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="693">
+            <state line="5" column="78" selection-start="187" selection-end="187" vertical-scroll-proportion="0.10822511" vertical-offset="0" max-vertical-offset="693">
               <folding />
             </state>
           </provider>
@@ -206,7 +199,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="74" selection-start="106" selection-end="106" vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="693">
+        <state line="5" column="78" selection-start="187" selection-end="187" vertical-scroll-proportion="0.10822511" vertical-offset="0" max-vertical-offset="693">
           <folding />
         </state>
       </provider>

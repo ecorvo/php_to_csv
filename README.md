@@ -1,4 +1,4 @@
-php_to_csv
+Export to CSV – PHP
 ==========
 
-Output CSV format using PHP
+Simple php function to easily create and download a CSV file form an Array.
